@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+i {
+    font-size: 40px;
+    padding: 3px;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+
+}
+
+.postcard {
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 600px;
+    width: 500px;
+    background-color: white;
+}
+
+.post-header {
+    display: flex;
+    padding: 3px;
+ }
+
+.p-nombre {
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+#icon {
+    margin-left: 350px;
+}
+
+#icon2 {
+    margin-left: 300px;
+}
+
+.post-footer {
+    padding: 5px;
+}
+
+
+.iconos {
+    display: flex;
+
+}
+
+.iconos-footer {
+    display: inline-flex;
+
+}
+
